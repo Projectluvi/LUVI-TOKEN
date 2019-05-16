@@ -20,7 +20,7 @@ LUVI is a revolutionary Ecosystem in safe, protected data storage and applicatio
  Token Information 
 - TOKEN NAME: LUVI TOKEN 
 - TOKEN SYMBOL: LUVI 
-- DECIMAL: 8 - TOTAL SUPLY: 3500000000 
+- DECIMAL: 8 - TOTAL SUPLY: 2500000000 
 
 Token Distribution 
 - For Airdrop : 45% 
